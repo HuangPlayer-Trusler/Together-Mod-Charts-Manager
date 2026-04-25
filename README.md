@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
 
 **Together Mod Charts Manager（TMCM）** 是一款面向 ADOFAI / Together Mod 社区的桌面端谱面管理工具，基于 PyQt5 打造，深色 Catppuccin 风格界面。  
 它可以一键导入 `.zip` 谱面包，自动解析 `.adofai` 元数据，提供便捷的浏览、搜索、音乐播放、信息编辑功能，并直连 TUF 数据库在线查找谱面。导出时自动将你的修改写回 `.adofai` 文件，让谱面管理变得前所未有的简单。
