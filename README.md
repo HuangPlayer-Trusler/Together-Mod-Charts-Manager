@@ -1,5 +1,7 @@
 # Together Mod Charts Manager (TMCM)
 
+[English](README_EN.md) | [한국어](README_KO.md)
+
 > ADOFAI / Together Mod 谱面管理工具 – 导入、浏览、播放、编辑、在线查找、批量导出，一站式搞定。
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
